@@ -7,7 +7,7 @@ requirements = [
 ]
 
 setup(
-    name='pyvideo-dl',
+    name='pyvideo_dl',
     version='0.1.0',
     description='Library for Social Media video downloading',
     author='Jorge Arévalo',
